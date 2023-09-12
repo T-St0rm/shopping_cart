@@ -1,0 +1,30 @@
+nav{
+    background-color: var(--branco);
+    height: 70px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    align-items: center;
+}
+
+.menu_navegacao{
+    display: flex;
+}
+
+.menu_navegacao_lista{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 40px;
+    width: 100px;
+    list-style: none;
+}
+
+.menu_navegacao_lista a{
+    text-decoration: none;
+    color: var();
+}
+
